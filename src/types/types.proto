@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message HelloRequest {
+    string in = 1;
+}
+
+message HelloResponse {
+    string out = 1;
+}
