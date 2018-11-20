@@ -7,7 +7,8 @@ curl https://raw.githubusercontent.com/loomnetwork/loom-sdk-documentation/master
 
 2. Install Protobuf
 
-(Download)[https://github.com/google/protobuf/releases/]
+Download for your OS
+https://github.com/google/protobuf/releases
 
 After installing for your OS run the following command
 ```
